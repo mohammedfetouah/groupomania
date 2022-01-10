@@ -1,27 +1,3 @@
-# dossier frontend
-npm install,
-npm run serve
-
-
-# dossier backend
-Installer la base de données 
-Renommer le fichier backend/config/db.config.js.exemple en backend/config/db.config.js
-Et changer la configuration avec vos informations mysql.
-
-npm install,
-npm run start
-
-
-
-
-
-
-
-
-
-
-
-
 ## Project setup
 ```
 npm install
