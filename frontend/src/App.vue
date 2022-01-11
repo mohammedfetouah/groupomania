@@ -94,4 +94,8 @@ export default {
     color: red;
     font-weight: bold;
   }
+  img{
+    vertical-align: middle;
+    max-width: 400px;
+}
 </style>

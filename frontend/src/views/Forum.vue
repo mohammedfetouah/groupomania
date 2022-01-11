@@ -237,6 +237,7 @@ export default {
     background: #ffd7d7;
     border-radius: 15px;
     padding: 10px;
+    margin-top: 15px;
 }
 label {
     font-weight: bold;
